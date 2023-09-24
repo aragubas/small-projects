@@ -1,0 +1,11 @@
+#root {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.calculatorBody {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 380px;
+}
